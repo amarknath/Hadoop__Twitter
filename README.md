@@ -1,10 +1,5 @@
 # Hadoop__Twitter
-=====================================================================================================
-## Team Members
-    Amarnath Kothapalli
-    Atmanand Citigori 
-    Sai Siddhardh Reddy Thatiparthi 
-    Yashmin Singla
+Twitter Data questions solved using Hadoop
 
 Questions:
     Twitter Data
